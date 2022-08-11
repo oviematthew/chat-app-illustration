@@ -336,10 +336,7 @@ p {
 }
 
 @media only screen and (max-width: 700px)  {
-    #secondcol {
-        margin-left: 70px;
-        width: 350px;
-    }
+    
     
     .bookingheader {  
         margin-top: 100px;
