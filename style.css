@@ -12,6 +12,7 @@ p {
     font-weight: 400;
 }
 
+/* Main Section */
 
 #mainrow{
     display: flex;
@@ -342,4 +343,17 @@ p {
         margin-top: 100px;
     }
 }
+/* End Main Section */
+
+
+/* Attribution */
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); 
+    
+}
+
+
+
+
+/* End Attribution */
 
